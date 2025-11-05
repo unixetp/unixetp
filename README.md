@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#58a6ff;">unixetp</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#58a6ff;">unix</span></h1>
 
 <p align="center">
   💻 <b>Web Designer</b> & <b>Reverse Engineer</b><br>
