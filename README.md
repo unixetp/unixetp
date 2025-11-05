@@ -15,15 +15,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Luau-000000?style=for-the-badge&logo=roblox&logoColor=white%22/>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white%22/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white%22/>
-</p>
-
----
-
 ### 🧠 Frameworks & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white%22/>
