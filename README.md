@@ -15,14 +15,6 @@
 
 ---
 
-### 🧠 Frameworks & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white%22/>
-  <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white%22/>
-</p>
-
----
-
 ### 🎮 About Me
 > z ujyljy t,fysq,  
 > cjcbnt **[eq** cerf.
