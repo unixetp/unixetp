@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#58a6ff;">unixetp</span></h1>
 
 <p align="center">
-  💻 <b>Exploit Developer</b> & <b>Reverse Engineer</b><br>
+  💻 <b>Web Designer</b> & <b>Reverse Engineer</b><br>
   🧠 Started my coding journey in <b>2019</b>
 </p>
 
